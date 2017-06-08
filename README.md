@@ -2,7 +2,10 @@
   1. interesting point extraction from video
         
           http://www.jump.video/
-  2. ...
+  2. mobileye
+  
+          https://www.youtube.com/watch?v=EaY5QiZwSP4&feature=youtu.be
+  3. ..
           
 # mobile cv acceleration
   
